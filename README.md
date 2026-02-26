@@ -93,7 +93,7 @@ MySQL | PostgreSQL | DB2
 
 ## 🎯 Career Focus
 
-Data Engineer | AI Engineer | ML Engineer | Backend Developer  
+Data Engineer | AI Engineer | ML Engineer | Data Analyst  
 
 ---
 
